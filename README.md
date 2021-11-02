@@ -1,4 +1,12 @@
-# cook_book
+# coocking book
+## Summary: The project includes a cookbook app, 
+frontend: bootstrap standard templates, html, css, 
+backend: django, postgres, 
+server: docker cluster.
+
+### Note:
+:warning: To install you need installed before: docker, docker compose
+
 1) docker-compose up --build
 2) sudo docker-compose exec web python manage.py makemigrations
 3) sudo docker-compose exec web python manage.py migrate
