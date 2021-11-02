@@ -7,12 +7,21 @@ server: docker cluster.
 ### Note:
 :warning: To install you need installed before: docker, docker compose
 
-1) docker-compose up --build
-2) sudo docker-compose exec web python manage.py makemigrations
-3) sudo docker-compose exec web python manage.py migrate
-4) sudo docker-compose exec web python manage.py makemigrations book
-5) sudo docker-compose exec web python manage.py createsuperuser
-
+### :star: Instalation steps:
+1) clone project and change to directory.
+To build and run project.
+2) docker-compose up --build
+Create tables on your database.
+3) sudo docker-compose exec web python manage.py makemigrations
+4) sudo docker-compose exec web python manage.py migrate
+5) sudo docker-compose exec web python manage.py makemigrations book
+6) sudo docker-compose exec web python manage.py createsuperuser
+:warning: ### Note: 
+if you see a similar picture:
+![alt text]12.png
+Stop the project runing(ctrl-c) and rerun 
+until you see something like this.
+![alt text]11.png
 
 .env.dev:
 DEBUG=1
