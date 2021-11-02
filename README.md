@@ -3,7 +3,8 @@
 frontend: bootstrap standard templates, html, css, 
 backend: django, postgres, 
 server: docker cluster.
-![Alt text](./13.png).
+![Alt text](./13.png)
+#### :warning: Note: add_recipe and add_ingridient in betta.
 
 ### Note:
 :warning: To install you need installed before: docker, docker compose
