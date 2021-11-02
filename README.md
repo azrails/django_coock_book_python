@@ -21,7 +21,7 @@ if you see a similar picture:
 ![alt text]./12.png
 Stop the project runing(ctrl-c) and rerun 
 until you see something like this.
-![alt text]./11.png
+![Alt text](./11.png)
 
 .env.dev:
 DEBUG=1
