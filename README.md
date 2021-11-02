@@ -13,15 +13,15 @@ server: docker cluster.
 1) clone project and change to directory.
 #### Create a .env.dev file and write this config into it
 #### (if necessary, you can replace the necessary parameters here and in docker-compose.yaml):
-DEBUG=1
-SECRET_KEY=foo
-ALLOWED_HOSTS=localhost 127.0.0.1 [::1]
-POSTGRES_ENGINE=django.db.backends.postgresql
-POSTGRES_DB=django_cook
-POSTGRES_USER=django_user
-POSTGRES_PASSWORD=django_password
-POSTGRES_HOST=db
-POSTGRES_PORT=5432
+DEBUG=1<br>
+SECRET_KEY=foo<br>
+ALLOWED_HOSTS=localhost 127.0.0.1 [::1]<br>
+POSTGRES_ENGINE=django.db.backends.postgresql<br>
+POSTGRES_DB=django_cook<br>
+POSTGRES_USER=django_user<br>
+POSTGRES_PASSWORD=django_password<br>
+POSTGRES_HOST=db<br>
+POSTGRES_PORT=5432<br>
 #### To build and run project.
 2) docker-compose up --build
 Create tables on your database.
