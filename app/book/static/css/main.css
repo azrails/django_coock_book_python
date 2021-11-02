@@ -1,0 +1,35 @@
+.heads {
+    color:blueviolet;
+    font-family:'Fruktur', cursive;
+}
+
+.clr {
+    background-color: blueviolet;
+}
+
+.fnt {
+    font-family: 'Noto Serif Display';
+    color: rgb(241, 167, 7);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(102, 71, 5);
+}
+
+.indent {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-info {
+    color: blueviolet;
+}

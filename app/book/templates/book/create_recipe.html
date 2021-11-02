@@ -1,0 +1,9 @@
+{% extends 'book/base_book.html' %}
+{% block content %}
+<form method='post' , class='form-control'>
+{% csrf_token %}
+{{form.as_p}}
+ <button type='submit', class="btn btn-info">Добавить</button>
+</form>
+<h3> <a href="{% url 'create_ingridient' %}">Если не можете найти нужный ингридиент создайте его</a></h3>
+{% endblock %}

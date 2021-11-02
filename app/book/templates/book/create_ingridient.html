@@ -1,0 +1,8 @@
+{% extends 'book/base_book.html' %}
+{% block content %}
+<form method='post' , class='form-control'>
+{% csrf_token %}
+{{form.as_p}}
+    <button type='submit', class="btn btn-info">Добавить</button>
+</form>
+{% endblock %}

@@ -1,0 +1,1774 @@
+[
+{
+   "model": "admin.logentry",
+   "pk": 18,
+   "fields": {
+      "action_time": "2021-11-01T11:32:55.313Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "7",
+      "object_repr": "asda",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 19,
+   "fields": {
+      "action_time": "2021-11-01T11:32:55.343Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "10",
+      "object_repr": "azara",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 20,
+   "fields": {
+      "action_time": "2021-11-01T11:32:55.354Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "9",
+      "object_repr": "azarai",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 21,
+   "fields": {
+      "action_time": "2021-11-01T11:32:55.365Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "8",
+      "object_repr": "azarail",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 22,
+   "fields": {
+      "action_time": "2021-11-01T11:32:55.376Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "1",
+      "object_repr": "azrail",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 23,
+   "fields": {
+      "action_time": "2021-11-01T11:32:55.388Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "11",
+      "object_repr": "azrails",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 24,
+   "fields": {
+      "action_time": "2021-11-01T11:45:17.904Z",
+      "user": 12,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "artem",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 25,
+   "fields": {
+      "action_time": "2021-11-01T11:45:39.247Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "КОРТОШКА ВАРЕНАЯ",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 26,
+   "fields": {
+      "action_time": "2021-11-01T11:45:39.262Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Kurochka",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 27,
+   "fields": {
+      "action_time": "2021-11-01T11:45:49.486Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "chiken",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 28,
+   "fields": {
+      "action_time": "2021-11-01T11:45:49.524Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "carrot",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 29,
+   "fields": {
+      "action_time": "2021-11-01T11:45:49.535Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "potato",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 30,
+   "fields": {
+      "action_time": "2021-11-01T11:46:13.408Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "dsadad",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 31,
+   "fields": {
+      "action_time": "2021-11-01T11:46:21.584Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "asas",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 32,
+   "fields": {
+      "action_time": "2021-11-01T11:48:36.378Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "14",
+      "object_repr": "asda",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 33,
+   "fields": {
+      "action_time": "2021-11-01T11:48:36.417Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "13",
+      "object_repr": "asdasd",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 34,
+   "fields": {
+      "action_time": "2021-11-01T12:17:45.928Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "капуста",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 35,
+   "fields": {
+      "action_time": "2021-11-01T13:08:21.461Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "17",
+      "object_repr": "asdasdasd",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 36,
+   "fields": {
+      "action_time": "2021-11-01T13:08:21.518Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "16",
+      "object_repr": "asdasdasd",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 37,
+   "fields": {
+      "action_time": "2021-11-01T13:08:21.529Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "15",
+      "object_repr": "asdasdasd",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 38,
+   "fields": {
+      "action_time": "2021-11-01T13:49:29.899Z",
+      "user": 12,
+      "content_type": 4,
+      "object_id": "15",
+      "object_repr": "azrail",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 39,
+   "fields": {
+      "action_time": "2021-11-01T13:49:43.725Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "21",
+      "object_repr": "aaaaaaaa",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 40,
+   "fields": {
+      "action_time": "2021-11-01T13:49:43.751Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "20",
+      "object_repr": "aaaaaaaa",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 41,
+   "fields": {
+      "action_time": "2021-11-01T13:49:43.762Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "19",
+      "object_repr": "aaaaaaaa",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 42,
+   "fields": {
+      "action_time": "2021-11-01T13:49:43.773Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "asas",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 43,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.578Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "as",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 44,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.618Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "asas",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 45,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.629Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "aa",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 46,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.640Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "sa",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 47,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.651Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "a",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 48,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.662Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "as",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 49,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.674Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "rrf",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 50,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.685Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "капуста",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 51,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.696Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "капуста",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 52,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.707Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "помидоры",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 53,
+   "fields": {
+      "action_time": "2021-11-01T13:49:54.719Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "dsadad",
+      "action_flag": 3,
+      "change_message": ""
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 54,
+   "fields": {
+      "action_time": "2021-11-01T13:59:37.900Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Оливковое масло",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 55,
+   "fields": {
+      "action_time": "2021-11-01T13:59:47.380Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "Сыр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 56,
+   "fields": {
+      "action_time": "2021-11-01T13:59:53.905Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "Лук",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 57,
+   "fields": {
+      "action_time": "2021-11-01T13:59:59.567Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "19",
+      "object_repr": "Ризони",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 58,
+   "fields": {
+      "action_time": "2021-11-01T14:00:04.322Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "Вино",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 59,
+   "fields": {
+      "action_time": "2021-11-01T14:00:06.706Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "22",
+      "object_repr": "Ризотто из пасты орзо с грибами и горошк",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 60,
+   "fields": {
+      "action_time": "2021-11-01T14:00:19.197Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "22",
+      "object_repr": "Ризотто из пасты орзо с грибами",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 61,
+   "fields": {
+      "action_time": "2021-11-01T14:02:29.724Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "Печень",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 62,
+   "fields": {
+      "action_time": "2021-11-01T14:02:48.028Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "чеснок",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 63,
+   "fields": {
+      "action_time": "2021-11-01T14:03:19.038Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "23",
+      "object_repr": "Паштет из куриной печени с чесноком",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 64,
+   "fields": {
+      "action_time": "2021-11-01T14:03:41.182Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "23",
+      "object_repr": "Паштет из куриной печени с чесноком",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Ingridients\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 65,
+   "fields": {
+      "action_time": "2021-11-01T14:05:46.771Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "23",
+      "object_repr": "Паштет из куриной печени с чесноком",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Ingridients\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 66,
+   "fields": {
+      "action_time": "2021-11-01T14:08:03.039Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "масло сливочное",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 67,
+   "fields": {
+      "action_time": "2021-11-01T14:08:29.508Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "23",
+      "object_repr": "Паштет из куриной печени с чесноком",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Ingridients\"]}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 68,
+   "fields": {
+      "action_time": "2021-11-01T14:11:53.937Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "манная каша",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 69,
+   "fields": {
+      "action_time": "2021-11-01T14:12:10.716Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "25",
+      "object_repr": "изюм",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 70,
+   "fields": {
+      "action_time": "2021-11-01T14:12:17.072Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "26",
+      "object_repr": "сахар",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 71,
+   "fields": {
+      "action_time": "2021-11-01T14:12:20.003Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "24",
+      "object_repr": "Манная каша на молоке",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 72,
+   "fields": {
+      "action_time": "2021-11-01T14:14:01.234Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "27",
+      "object_repr": "шампиньоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 73,
+   "fields": {
+      "action_time": "2021-11-01T14:14:19.362Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "орехи грецкие",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 74,
+   "fields": {
+      "action_time": "2021-11-01T14:14:25.122Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "25",
+      "object_repr": "Паштет из шампиньонов с грецкими орехами",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 75,
+   "fields": {
+      "action_time": "2021-11-01T14:17:04.647Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "29",
+      "object_repr": "соль",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 76,
+   "fields": {
+      "action_time": "2021-11-01T14:17:09.743Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "30",
+      "object_repr": "нут",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 77,
+   "fields": {
+      "action_time": "2021-11-01T14:17:22.711Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "26",
+      "object_repr": "Хумус (классический)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 78,
+   "fields": {
+      "action_time": "2021-11-01T14:19:18.796Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "31",
+      "object_repr": "говядина",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 79,
+   "fields": {
+      "action_time": "2021-11-01T14:19:25.967Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "32",
+      "object_repr": "перец",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 80,
+   "fields": {
+      "action_time": "2021-11-01T14:19:36.753Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "27",
+      "object_repr": "Бефстроганов из говядины с грибами",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 81,
+   "fields": {
+      "action_time": "2021-11-01T14:21:01.285Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "28",
+      "object_repr": "Печень по-строгановски",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 82,
+   "fields": {
+      "action_time": "2021-11-01T14:32:10.767Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "33",
+      "object_repr": "свинина",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 83,
+   "fields": {
+      "action_time": "2021-11-01T14:32:32.369Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "29",
+      "object_repr": "Бефстроганов из свинины",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 84,
+   "fields": {
+      "action_time": "2021-11-01T14:34:24.156Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "34",
+      "object_repr": "вода",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 85,
+   "fields": {
+      "action_time": "2021-11-01T14:34:32.192Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "35",
+      "object_repr": "желатин",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 86,
+   "fields": {
+      "action_time": "2021-11-01T14:34:41.358Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "36",
+      "object_repr": "ягоды",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 87,
+   "fields": {
+      "action_time": "2021-11-01T14:34:43.017Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "30",
+      "object_repr": "Ягодный мусс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 88,
+   "fields": {
+      "action_time": "2021-11-01T14:36:39.232Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "37",
+      "object_repr": "яблоки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 89,
+   "fields": {
+      "action_time": "2021-11-01T14:36:46.883Z",
+      "user": 12,
+      "content_type": 8,
+      "object_id": "38",
+      "object_repr": "овсяные хлопья",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "admin.logentry",
+   "pk": 90,
+   "fields": {
+      "action_time": "2021-11-01T14:37:01.396Z",
+      "user": 12,
+      "content_type": 9,
+      "object_id": "31",
+      "object_repr": "Диетическое овсяное печенье",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 1,
+   "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 2,
+   "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 3,
+   "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 4,
+   "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 5,
+   "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 6,
+   "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 7,
+   "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 8,
+   "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 9,
+   "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 10,
+   "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 11,
+   "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 12,
+   "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 13,
+   "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 14,
+   "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 15,
+   "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 16,
+   "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 17,
+   "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 18,
+   "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 19,
+   "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 20,
+   "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 21,
+   "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 22,
+   "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 23,
+   "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 24,
+   "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 25,
+   "fields": {
+      "name": "Can add author",
+      "content_type": 7,
+      "codename": "add_author"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 26,
+   "fields": {
+      "name": "Can change author",
+      "content_type": 7,
+      "codename": "change_author"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 27,
+   "fields": {
+      "name": "Can delete author",
+      "content_type": 7,
+      "codename": "delete_author"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 28,
+   "fields": {
+      "name": "Can view author",
+      "content_type": 7,
+      "codename": "view_author"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 29,
+   "fields": {
+      "name": "Can add ingridient",
+      "content_type": 8,
+      "codename": "add_ingridient"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 30,
+   "fields": {
+      "name": "Can change ingridient",
+      "content_type": 8,
+      "codename": "change_ingridient"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 31,
+   "fields": {
+      "name": "Can delete ingridient",
+      "content_type": 8,
+      "codename": "delete_ingridient"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 32,
+   "fields": {
+      "name": "Can view ingridient",
+      "content_type": 8,
+      "codename": "view_ingridient"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 33,
+   "fields": {
+      "name": "Can add recipe",
+      "content_type": 9,
+      "codename": "add_recipe"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 34,
+   "fields": {
+      "name": "Can change recipe",
+      "content_type": 9,
+      "codename": "change_recipe"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 35,
+   "fields": {
+      "name": "Can delete recipe",
+      "content_type": 9,
+      "codename": "delete_recipe"
+   }
+},
+{
+   "model": "auth.permission",
+   "pk": 36,
+   "fields": {
+      "name": "Can view recipe",
+      "content_type": 9,
+      "codename": "view_recipe"
+   }
+},
+{
+   "model": "auth.user",
+   "pk": 12,
+   "fields": {
+      "password": "pbkdf2_sha256$260000$3dtpPsNjQfsnTYiOvTidxE$Mr+IqFnAmqNPJaYs9G708tyz1YrxAgq/rO6pP1eVmqU=",
+      "last_login": "2021-11-01T13:57:56.014Z",
+      "is_superuser": true,
+      "username": "artem",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2021-11-01T11:32:16.069Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
+   "model": "auth.user",
+   "pk": 16,
+   "fields": {
+      "password": "pbkdf2_sha256$260000$E8qQncBlhPZHjgauBQlePe$9RboOVFnIh3N3NYWk/DpG0o0sa4G68o8h3FAE1nw5AU=",
+      "last_login": "2021-11-01T13:52:38.833Z",
+      "is_superuser": false,
+      "username": "azrail",
+      "first_name": "azrail",
+      "last_name": "",
+      "email": "azrail@mail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-01T13:52:24.581Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
+   "model": "auth.user",
+   "pk": 17,
+   "fields": {
+      "password": "pbkdf2_sha256$260000$sqL0PZYwTmx5eqFp2TFQEB$k1gpzdRIsYFyVBoj4Oq1ma2pZSfUMspQdwi1BCpIe0c=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "azaza",
+      "first_name": "azaza",
+      "last_name": "",
+      "email": "azaza@mail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-01T13:53:14.621Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
+   "model": "auth.user",
+   "pk": 18,
+   "fields": {
+      "password": "pbkdf2_sha256$260000$Iui2faolChcrxp6wiocwRe$l7a0uC8YlGGJwISeUo0o5NNvVvrPsevvuQrPEGYMpXE=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "anton",
+      "first_name": "anton",
+      "last_name": "",
+      "email": "anton@mail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-01T13:55:06.821Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
+   "model": "auth.user",
+   "pk": 19,
+   "fields": {
+      "password": "pbkdf2_sha256$260000$CBhDeDMJH3FJ3KcYRi5z8W$nJSeRwZex63S2lqfON4dj4V/Futs/rbgR/CLk8/duho=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "alex",
+      "first_name": "alex",
+      "last_name": "",
+      "email": "alex@m.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-01T13:56:36.019Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 1,
+   "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 2,
+   "fields": {
+      "app_label": "auth",
+      "model": "permission"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 3,
+   "fields": {
+      "app_label": "auth",
+      "model": "group"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 4,
+   "fields": {
+      "app_label": "auth",
+      "model": "user"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 5,
+   "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 6,
+   "fields": {
+      "app_label": "sessions",
+      "model": "session"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 7,
+   "fields": {
+      "app_label": "book",
+      "model": "author"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 8,
+   "fields": {
+      "app_label": "book",
+      "model": "ingridient"
+   }
+},
+{
+   "model": "contenttypes.contenttype",
+   "pk": 9,
+   "fields": {
+      "app_label": "book",
+      "model": "recipe"
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 22,
+   "fields": {
+      "title": "Ризотто из пасты орзо с грибами",
+      "description": "Ризотто из пасты орзо - это мною придуманная альтернатива итальянскому ризотто, и готовится это ризотто н",
+      "formula": "Лук репчатый нарежем кубиком. Шампиньоны очищаем от пленки и нарезаем пластинами.\r\n\r\nВ сковороде разогреваем оливковое масло и обжариваем на нем лук и грибы, помешивая, 5-7 минут.\r\nДобавляем в сковороду пасту орзо.\r\n\r\nВливаем в сковороду белое сухое вино. Перемешиваем все ингредиенты и тушим все минуты 3-4, пока вино не выпарится.\r\n\r\nПриятного аппетита!",
+      "publish_date": "2021-11-01T13:58:07Z",
+      "author": 19,
+      "ingridients": [
+         16,
+         17,
+         18,
+         19,
+         20
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 23,
+   "fields": {
+      "title": "Паштет из куриной печени с чесноком",
+      "description": "Вкусный, недорогой и ароматный паштет из куриной печени с чесноком.",
+      "formula": "На мой взгляд, с приготовлением куриного паштета может справиться даже самый начинающий кулинар. Так что всё в ваших руках!\r\n\r\n\r\n\r\nРаньше я готовила паштет из курицы по традиционному рецепту, из печени, овощей и сливочного масла. Это, без сомнения, вкусно.\r\n\r\n\r\n\r\nНо недавно я наткнулась на рецепт паштета из куриной печени с чесноком от Лорель Паскаль. Конечно, количество сливочного масла немного насторожило, да еще и без овощей... Однако начитавшись положительных отзывов о ней, как о прекрасном кулинаре, я всё же решила испытать ее рецепт куриного паштета. Скажу честно: паштет получился очень нежным и, конечно же, вкусным, поэтому и вам рекомендую его приготовить!\r\n\r\n\r\n\r\nНам понадобятся: куриная печень, сливочное масло, жирные сливки, соль, перец и чеснок, по рецепту еще надо добавить 1 столовую ложку коньяка (я не добавляла).",
+      "publish_date": "2021-11-01T14:01:39Z",
+      "author": 18,
+      "ingridients": [
+         21,
+         22,
+         23
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 24,
+   "fields": {
+      "title": "Манная каша на молоке",
+      "description": "Манная крупа - это пшеничная крупчатка, образующаяся при перемалывании пшеницы твёрдых сортов в муку.",
+      "formula": "Для приготовления каши нам понадобится немного воды, молоко, сахар, манка. Остальные ингредиенты, например изюм, варенье, масло - по желанию.\r\n\r\nНа дно кастрюли налить воду так чтоб дно было покрыто. Как только вода начнёт закипать, влить молоко и всыпать сахар, перемешать. Можно добавить щепотку соли. Помешивать молоко ,чтоб сверху не было плёночки. В горячее молоко постепенно всыпать манку струйкой интенсивно помешивая.\r\nМешать кашу 5 минут непрерывно.\r\nЗатем, когда каша немного загустеет, накрыть её крышкой, снять с огня и оставить на 10 минут.\r\nПока каша будет настаиваться промоем изюм, откроем варенье. В готовую кашу добавляем то что нам нравится и подаём к столу.",
+      "publish_date": "2021-11-01T14:10:46Z",
+      "author": 16,
+      "ingridients": [
+         24,
+         25,
+         26,
+         23
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 25,
+   "fields": {
+      "title": "Паштет из шампиньонов с грецкими орехами",
+      "description": "Предлагаю приготовить вкусный грибной паштет - из шампиньонов с грецкими орехами.",
+      "formula": "Готовить его очень просто. Этот паштет можно подать с багетом, солеными крекерами, блинами, тарталетками, лепешками. Какими же вкусными получаются бутерброды с этим паштетом! Сливочное масло и вареное яйцо придают паштету нежность, а грецкие орехи - пикантный вкус.\r\nГотовлю ингредиенты по списку.\r\nШампиньоны мою и нарезаю ломтиками.\r\nРепчатый лук нарезаю кубиками.\r\nПоловину сливочного масла растапливаю в сковороде, добавляю туда нарезанный репчатый лук и тушу на небольшом огне до мягкости.\r\n\r\n\r\nЗатем добавляю в сковороду шампиньоны, солю и перчу по вкусу.\r\nТушу грибы примерно 15 минут. Даю шампиньонам полностью остыть.",
+      "publish_date": "2021-11-01T14:12:46Z",
+      "author": 16,
+      "ingridients": [
+         17,
+         18,
+         23,
+         27,
+         28
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 26,
+   "fields": {
+      "title": "Хумус (классический)",
+      "description": "Классический рецепт хумуса - вкусно и сытной восточной закуски из нута. Это блюдо является частым гостем",
+      "formula": "Хумус — это пюре-образная закуска из нута и специй. Традиционно в состав хумуса входят кунжутная паста, острые перцы, ароматные специи, чеснок и возможны разные сочетания. Подается такая закуска с хлебом, лавашом, питой, к овощам свежим или запеченным, с сыром фета и к мясным блюдам тоже.\r\n\r\n\r\n\r\nПодготовьте ингредиенты для приготовления классического хумуса.\r\nНут нужно предварительно замочить.\r\nА затем сварить до мягкости. \r\nНапример, в мультиварке на режиме \"бобы\" или другом подходящем.\r\nЗатем соедините готовый нут, чеснок, кунжутную муку или измельченные кунжутные семена, специи, лимонный сок, соль и по желанию немного воды, в котором варился нут.",
+      "publish_date": "2021-11-01T14:14:28Z",
+      "author": 18,
+      "ingridients": [
+         16,
+         29,
+         30
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 27,
+   "fields": {
+      "title": "Бефстроганов из говядины с грибами",
+      "description": "полном же варианте звучит, как говядина по-строгановски",
+      "formula": "Мякоть говядины вымыть и нарезать тонкими кусочками а-ля Азу.\r\nНа сковороде разогреть 2 столовые ложки растительного масла и обжарить мясо на большом огне, 5 минут. Перемешивать не более 2-х раз, желательно чтобы мясо слегка подрумянилось.\r\n\r\nДобавить в мясо 2 столовые ложки муки и перемешав, снять мясо с огня буквально через 1 минуту.\r\nШампиньоны мелко нарезать. Репчатый лук очистить и нарезать полукольцами.\r\nОбжарить репчатый лук на растительном масле 4-5 минут.",
+      "publish_date": "2021-11-01T14:18:09Z",
+      "author": 17,
+      "ingridients": [
+         32,
+         16,
+         18,
+         22,
+         31
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 28,
+   "fields": {
+      "title": "Печень по-строгановски",
+      "description": "Классический вариант блюда бефстроганов, готовится из говядины и относится к традиционной русской кухне.",
+      "formula": "Для приготовления Бефстроганов из говяжьей печени подготовим основной продукт. Печень вымыть и очистить от пленок. Нарезать небольшими кусочками. Я сначала порезал печень, а потом очищал от пленок.\r\nПомидор обдать кипятком и снять кожицу, нарезать кусочками среднего размера. Репчатый лук нарезать четверть кольцами.\r\nВ сковороду влить растительное масло и обжарить печень на сильном огне 5-7 минут, помешивая.",
+      "publish_date": "2021-11-01T14:19:40Z",
+      "author": 18,
+      "ingridients": [
+         32,
+         16,
+         18,
+         21,
+         29,
+         31
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 29,
+   "fields": {
+      "title": "Бефстроганов из свинины",
+      "description": "Бефстроганов — это традиционный русский способ приготовления мяса в горячем белом (сметанном) соусе.",
+      "formula": "Бефстроганов — это традиционный русский способ приготовления мяса в горячем белом (сметанном) соусе. По классическому варианту мясо По-строгановски готовится из говядины, однако из свинины оно получается ничуть не хуже. И что самое главное, рецепт настолько прост, что с ним справится любой человек не имеющий какого-либо отношения к кулинарии.\r\nКусок свиной вырезки вымыть и нарезать кусками толщиной в 1,5 сантиметра.\r\nНа сковороде разогреть подсолнечное или оливковое масло, выложить мясо и обжарить его около 10 минут до румяной корочки, примерно как на фото.\r\nДобавить на сковороду репчатый лук нарезанный четверть кольцами. Обжаривать помешивая еще 5 минут.\r\nВыложить к свинине 3 столовые ложки сметаны и 2 столовые ложки муки и 1 чайную ложку соли без горки. Добавить стакан прохладной воды, перемешать, накрыть крышкой, убавить огонь и оставить тушиться на 10 минут.\r\nЧерез 10 минут наш бефстроганов из свинины готов. Подавать его лучше всего с любым простым гарниром - макаронами или гречкой, а еще лучше с жаренным картофелем.\r\n\r\nВот такая красотища получилась у меня, а какой потрясающий вкус, вы себе просто не представляете. Кстати если в процессе обжарки добавить мелко нарезанных грибов, будет еще вкуснее.",
+      "publish_date": "2021-11-01T14:21:07Z",
+      "author": 17,
+      "ingridients": [
+         32,
+         33,
+         16,
+         18,
+         23,
+         29
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 30,
+   "fields": {
+      "title": "Ягодный мусс",
+      "description": "Ягодный мусс – полезный и вкусный низкокалорийный десерт, который придется по вкусу всей семье",
+      "formula": "Ягодный мусс – полезный и вкусный низкокалорийный десерт, который придется по вкусу всей семье и не доставит хлопот на кухне. Приготовленный с добавлением желатина, из свежих или замороженных ягод, мусс обладает насыщенным натуральным ягодным вкусом и ароматом, получается ярким и красочным на вид.\r\n\r\nПо своей природе ягодный мусс на желатине очень близок к желе. Мусс так же предельно прост в приготовлении и состоит из четырех базовых компонентов. Разница между этими двумя десертами состоит в самом методе приготовления. Если смешав компоненты желе мы просто оставляем их для застывания, то для приготовления мусса мы точно такие же компоненты предварительно взобьем до состояния пышной пены. Взбивание смеси ягод и желатина миксером позволяет придать десерту воздушную, легкую, словно облачко, пористую текстуру и очень аппетитный вкус. Казалось бы, небольшое изменение, а получается новый, необычный десерт! Попробуйте!\r\nДля приготовления ягодного мусса с желатином вам понадобятся такие компоненты.\r\nРазморозьте замороженные ягоды или вымойте, обсушите и переберите свежие, отделив плодоножки и листья. В данном рецепте использована смесь замороженных ягод красной и черной смородины, с добавлением нескольких щепоток малины и ежевики.\r\n\r\nРастворите желатин в горячей воде и охладите до комнатной температуры.\r\nИзмельчите ягоды до состояния пюре (с помощью пестика или блендера). Затем протрите пюре через сито, отделив косточки и крупные кусочки кожуры.",
+      "publish_date": "2021-11-01T14:33:07Z",
+      "author": 19,
+      "ingridients": [
+         26,
+         35,
+         34,
+         36
+      ]
+   }
+},
+{
+   "model": "book.recipe",
+   "pk": 31,
+   "fields": {
+      "title": "Диетическое овсяное печенье",
+      "description": "Печенье бывает разным, я вот сделала диетическое - из овсяных хлопьев.",
+      "formula": "Печенье бывает разным, я вот сделала диетическое - из овсяных хлопьев. Оно не содержит сахара, очень лёгкое, но сытное. Если вы решили устроить разгрузочный день, а вкусняшки любите - это печенье будет как раз кстати. Оно ещё и готовится просто и быстро.\r\n\r\n\r\n\r\nВ моё печенье добавлены семена льна, но это по желанию.\r\n\r\n\r\n\r\nДля того чтобы приготовить диетическое овсяное печенье из овсяных хлопьев в домашних условиях, нам понадобится.\r\nСмешать сухие ингредиенты: овсяные хлопья, муку, семена льна, разрыхлитель и корицу.\r\nБелки отделить от желтков. Желток нам не потребуется. Яблоко натереть на мелкой тёрке и добавить к белкам.\r\nСмешать сухие ингредиенты с жидкими и очень хорошо перемешать. Оставить на 15 минут, чтобы хлопья немного набухли.",
+      "publish_date": "2021-11-01T14:35:34Z",
+      "author": 16,
+      "ingridients": [
+         37,
+         38,
+         23,
+         25,
+         26
+      ]
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 16,
+   "fields": {
+      "title": "Оливковое масло"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 17,
+   "fields": {
+      "title": "Сыр"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 18,
+   "fields": {
+      "title": "Лук"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 19,
+   "fields": {
+      "title": "Ризони"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 20,
+   "fields": {
+      "title": "Вино"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 21,
+   "fields": {
+      "title": "Печень"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 22,
+   "fields": {
+      "title": "чеснок"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 23,
+   "fields": {
+      "title": "масло сливочное"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 24,
+   "fields": {
+      "title": "манная каша"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 25,
+   "fields": {
+      "title": "изюм"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 26,
+   "fields": {
+      "title": "сахар"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 27,
+   "fields": {
+      "title": "шампиньоны"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 28,
+   "fields": {
+      "title": "орехи грецкие"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 29,
+   "fields": {
+      "title": "соль"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 30,
+   "fields": {
+      "title": "нут"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 31,
+   "fields": {
+      "title": "говядина"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 32,
+   "fields": {
+      "title": "перец"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 33,
+   "fields": {
+      "title": "свинина"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 34,
+   "fields": {
+      "title": "вода"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 35,
+   "fields": {
+      "title": "желатин"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 36,
+   "fields": {
+      "title": "ягоды"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 37,
+   "fields": {
+      "title": "яблоки"
+   }
+},
+{
+   "model": "book.ingridient",
+   "pk": 38,
+   "fields": {
+      "title": "овсяные хлопья"
+   }
+}
+]
