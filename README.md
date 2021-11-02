@@ -10,7 +10,7 @@ server: docker cluster.
 ### :star: Instalation steps:
 1) clone project and change to directory.
 #### Create a .env.dev file and write this config into it
-(if necessary, you can replace the necessary parameters here and in docker-compose.yaml):
+#### (if necessary, you can replace the necessary parameters here and in docker-compose.yaml):
 DEBUG=1
 SECRET_KEY=foo
 ALLOWED_HOSTS=localhost 127.0.0.1 [::1]
