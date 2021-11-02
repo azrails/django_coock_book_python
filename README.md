@@ -31,8 +31,8 @@ Create tables on your database.
 6) sudo docker-compose exec web python manage.py loaddata fixtures.json
 7) sudo docker-compose exec web python manage.py createsuperuser
 ### :warning:Note: 
-if you see a similar picture:
+if you see a similar picture after all steps:
 ![Alt text](./12.png)
-Stop the project runing(ctrl-c) and rerun 
+Stop the project runing(ctrl-c) and rerun step 2
 until you see something like this.
 ![Alt text](./11.png)
