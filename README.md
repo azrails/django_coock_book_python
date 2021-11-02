@@ -28,7 +28,8 @@ Create tables on your database.
 3) sudo docker-compose exec web python manage.py makemigrations
 4) sudo docker-compose exec web python manage.py migrate
 5) sudo docker-compose exec web python manage.py makemigrations book
-6) sudo docker-compose exec web python manage.py createsuperuser
+6) sudo docker-compose exec web python manage.py loaddata fixtures.json
+7) sudo docker-compose exec web python manage.py createsuperuser
 ### :warning:Note: 
 if you see a similar picture:
 ![Alt text](./12.png)
