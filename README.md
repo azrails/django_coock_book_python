@@ -3,6 +3,7 @@
 frontend: bootstrap standard templates, html, css, 
 backend: django, postgres, 
 server: docker cluster.
+![Alt text](./13.png).
 
 ### Note:
 :warning: To install you need installed before: docker, docker compose
