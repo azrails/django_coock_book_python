@@ -1,7 +1,10 @@
 # cook_book
+1) docker-compose up --build
+2) sudo docker-compose exec web python manage.py makemigrations
+3) sudo docker-compose exec web python manage.py migrate
+4) sudo docker-compose exec web python manage.py makemigrations book
+5) sudo docker-compose exec web python manage.py createsuperuser
 
-docker-compose build 
-docker-compose up
 
 .env.dev:
 DEBUG=1
