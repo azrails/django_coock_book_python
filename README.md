@@ -18,10 +18,10 @@ Create tables on your database.
 6) sudo docker-compose exec web python manage.py createsuperuser
 ### :warning:Note: 
 if you see a similar picture:
-![alt text]12.png
+![alt text]./12.png
 Stop the project runing(ctrl-c) and rerun 
 until you see something like this.
-![alt text]11.png
+![alt text]./11.png
 
 .env.dev:
 DEBUG=1
